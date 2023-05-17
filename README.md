@@ -60,6 +60,7 @@ Furthermore, I am drawn to the tranquility of the woods, where I enjoy practicin
 ## Stats
 
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonn00albert&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonn00albert)](https://github.com/leonn00albert/github-readme-stats)
  ## Recent Projects:rocket:
 
 [Simple RSS Reader](https://github.com/leonn00albert/RSS_READER)| [Pinterest Clone](https://github.com/leonn00albert?tab=repositories)        |    [Artemis Framework](https://github.com/leonn00albert/Artemis)
