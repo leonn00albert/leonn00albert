@@ -57,7 +57,9 @@ Furthermore, I am drawn to the tranquility of the woods, where I enjoy practicin
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
 </div>
 
+## Stats
 
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonn00albert&count_private=true)
  ## Recent Projects:rocket:
 
 [Simple RSS Reader](https://github.com/leonn00albert/RSS_READER)| [Pinterest Clone](https://github.com/leonn00albert?tab=repositories)        |    [Artemis Framework](https://github.com/leonn00albert/Artemis)
