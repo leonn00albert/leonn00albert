@@ -8,10 +8,7 @@
     <a href="https://leonn00albert.github.io/home/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/leon-a-120333176/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://www.codewars.com/users/leonn00albert">
+  <a href="https://www.codewars.com/users/leonn00albert">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/>
   </a>
     <a href="https://www.freecodecamp.org/fcc8ff78b01-1420-48c5-aa00-5aebbd7956bb">
