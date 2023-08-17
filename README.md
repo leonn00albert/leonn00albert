@@ -59,8 +59,11 @@ Furthermore, I am drawn to the tranquility of the woods, where I enjoy practicin
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonn00albert&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonn00albert)](https://github.com/leonn00albert/github-readme-stats)
  ## Recent Projects:rocket:
-
-[Simple RSS Reader](https://github.com/leonn00albert/RSS_READER)| [Pinterest Clone](https://github.com/leonn00albert?tab=repositories)        |    [Artemis Framework](https://github.com/leonn00albert/Artemis)
+[CryptChat](https://github.com/leonn00albert/CryptChat)| [Student Manager](https://github.com/leonn00albert/student_manager)        |    [Vintage Car Rental](https://github.com/leonn00albert/car-project)
+:-------------------------:|:-------------------------:|:-------------------------:
+ ![screenshot](https://i.postimg.cc/Qt0jy5gD/m3-cryptchat.jpg) |  ![m1c3l3.png](https://i.postimg.cc/bwK8BCrj/m2-student-manager-1.jpg) |  ![m1c4l1.png](https://i.postimg.cc/5NYTSBMY/module-2-group-project.jpg)
+ 
+[Simple RSS Reader](https://github.com/leonn00albert/RSS_READER)| [Pinterest Clone](https://i.postimg.cc/bwK8BCrj/m2-student-manager-1.jpg)        |    [Artemis Framework](https://github.com/leonn00albert/Artemis)
 :-------------------------:|:-------------------------:|:-------------------------:
  ![screenshot](https://i.ibb.co/Qby4fcG/simple-rss.png) |  ![m1c3l3.png](https://i.ibb.co/mzKwrDW/pinclone.png) |  ![m1c4l1.png](https://i.ibb.co/xXnv4MB/artemis.png)
  
