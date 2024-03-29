@@ -56,7 +56,6 @@ Furthermore, I am drawn to the tranquility of the woods, where I enjoy practicin
 
 ## Stats
 
-![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonn00albert&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonn00albert)](https://github.com/leonn00albert/github-readme-stats)
  ## Recent Projects:rocket:
 [CryptChat](https://github.com/leonn00albert/CryptChat)| [Student Manager](https://github.com/leonn00albert/student_manager)        |    [Vintage Car Rental](https://github.com/leonn00albert/car-project)
